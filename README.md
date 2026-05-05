@@ -1,1 +1,3 @@
-# Cambie el titulo para probar un merge con confictos
+# Hello Git
+
+Este es un proyecto de pruebas para aprender git
