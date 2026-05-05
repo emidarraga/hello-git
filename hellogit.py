@@ -5,3 +5,6 @@ def saludar():
 
 def despedir():
     print(f"adios {user_name}")
+
+def preguntar():
+    print(f"como esta {user_name}")
