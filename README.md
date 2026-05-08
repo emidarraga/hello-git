@@ -6,4 +6,4 @@ Esto otro cambio desde GitHub
 
 Ahora le agrego algo desde mi local
 
-Esto es una nueva linea para probar el merge
+Modificando desde el remoto
