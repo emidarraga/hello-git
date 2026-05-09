@@ -12,3 +12,4 @@ Modificando desde el remoto
 
 Agregando cambios desde mi maquina ubuntu
 
+Usando Herramientas graficas
