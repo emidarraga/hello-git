@@ -10,3 +10,5 @@ Cambiando la misma linea
 
 Modificando desde el remoto
 
+Agregando cambios desde mi maquina ubuntu
+
